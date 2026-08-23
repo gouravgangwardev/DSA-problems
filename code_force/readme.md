@@ -21,6 +21,10 @@ This repository contains problem solutions along with explanations, key observat
 | 11 | ICPC 2026 Online Challenge 1 powered by Huawei | 22-08-2026 |
 | 12 | 2240B                                          | 23-08-2026 |
 | 13 | 2241C                                          | 23-08-2026 |
+| 14 | 2245B    | 24-08-2026 |
+| 15 | 2240A              | 24-08-2026 |
+
+
 
 ## Repository Structure
 
@@ -40,4 +44,6 @@ code_force/
 ├── 11B.md
 ├── 12D.md
 ├── 12A.md
+├── 2245B.md
+├── 2240A.md           
 └── README.md

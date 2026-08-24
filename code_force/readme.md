@@ -23,8 +23,8 @@ This repository contains problem solutions along with explanations, key observat
 | 13 | 2241C                                          | 23-08-2026 |
 | 14 | 2245B    | 24-08-2026 |
 | 15 | 2240A              | 24-08-2026 |
-
-
+| 16 | 2257A              | 25-08-2026 |
+| 17 | 2256B              | 25-08-2026 |
 
 ## Repository Structure
 
@@ -45,5 +45,7 @@ code_force/
 ├── 12D.md
 ├── 12A.md
 ├── 2245B.md
-├── 2240A.md           
+├── 2240A.md
+├── 2257A.md
+├── 2256B.md
 └── README.md

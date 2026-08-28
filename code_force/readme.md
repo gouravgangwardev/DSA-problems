@@ -27,6 +27,7 @@ This repository contains problem solutions along with explanations, key observat
 | 17 | 2256B              | 25-08-2026 |
 | 18 | 2254A              | 28-08-2026 |
 | 19 | 2255B              | 28-08-2026 |
+| 20 | 2256A              | 28-08-2026 |
 
 ## Repository Structure
 
@@ -52,4 +53,5 @@ code_force/
 ├── 2256B.md
 ├── 2255B.md
 ├── 2254A.md
+├── 2256A.md
 └── README.md

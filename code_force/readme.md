@@ -30,10 +30,19 @@ This repository contains problem solutions along with explanations, key observat
 | 20 | 2256A              | 28-08-2026 |
 | 21 | 2247E              | 29-08-2026 |
 | 22 | 2255F              | 29-08-2026 |
+| 23 | 2247C              | 29-08-2026 |
+| 24 | 2236A              | 30-08-2026 |
+| 25 | 2233A              | 30-08-2026 |
+| 26 | 2227C              | 30-08-2026 |
+| 27 | 2247B              | 30-08-2026 |
+
 
 ## Repository Structure
 
-
+2236A — Games on the Train
+2233A — AI Project Development
+2227B — Party Monster
+2227C — Snowfall
 ```text
 code_force/
 │
@@ -58,4 +67,8 @@ code_force/
 ├── 2256A.md
 ├── 2255F.md
 ├── 2247E.md
+├── 2236A.md
+├── 2233A.md
+├── 2227B.md
+├── 2227C.md
 └── README.md

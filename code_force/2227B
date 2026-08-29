@@ -1,0 +1,40 @@
+# 2227B — Party Monster
+
+## Question
+
+Given a string consisting only of `(` and `)`.
+
+You may perform the following operation at most once:
+
+1. Choose a substring.
+2. Remove it.
+3. Reinsert its characters individually at arbitrary positions.
+
+Determine whether it is possible to obtain a Regular Bracket Sequence (RBS).
+
+## Solution
+
+A Regular Bracket Sequence must satisfy:
+
+1. Its length is even.
+2. The number of `(` equals the number of `)`.
+3. The balance of every prefix must be non-negative.
+
+The operation does not change the total number of opening or closing brackets.
+
+Therefore, if:
+
+`count('(') != count(')')`
+
+the answer is immediately `NO`.
+
+If the counts are equal, the string can be rearranged through the allowed operation to fix an invalid ordering.
+
+If the string is already valid, no operation is required.
+
+Thus, after checking the counts and prefix condition, we can determine whether the required rearrangement is possible.
+
+## Complexity
+
+- Time: `O(n)`
+- Space: `O(1)`

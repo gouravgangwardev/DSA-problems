@@ -14,10 +14,10 @@ My **Data Structures & Algorithms** practice repository, containing my Codeforce
 ```text
 Competitive-Programming/
 ├── Codeforces/
-│   ├── problem no.md
-│   ├── problem no.md
-│   ├── problem no.md
-│   ├── problem no.md
+│   ├── 2240B.md
+│   ├── 2241C.md
+│   ├── 2245A.md
+│   ├── 2248B.md
 │   └── ...
 ├── LeetCode/
 │   └── Recent 16 Problems/
